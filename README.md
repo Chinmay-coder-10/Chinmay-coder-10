@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Chinmay-coder-10
 - 👀 I’m interested in Learning programming
-- 🌱 I’m currently learning HTML, CSS, JS,
+- 🌱 I’m currently learning React JS,
+
 
 
 <!---
